@@ -1,0 +1,28 @@
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.exe
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.deps.json
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.runtimeconfig.json
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.runtimeconfig.dev.json
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.dll
+C:\Users\adarh\source\repos\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.pdb
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.AssemblyInfo.cs
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.dll
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.pdb
+C:\Users\adarh\source\repos\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.genruntimeconfig.cache
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.exe
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.deps.json
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.runtimeconfig.json
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.runtimeconfig.dev.json
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.dll
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\bin\Debug\netcoreapp3.1\S01_ListaEnlazada.pdb
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.AssemblyInfo.cs
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.dll
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.pdb
+C:\Users\adarh\Downloads\UPN\ED_UPN\ESTRUCTURA DE DATOS 6550-6551\S01\S01_ListaEnlazada\obj\Debug\netcoreapp3.1\S01_ListaEnlazada.genruntimeconfig.cache
